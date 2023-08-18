@@ -109,6 +109,7 @@ has been described above already: this folder contains layouts, which are page-
 specific. Due to the fact that a website usually consists of a number of pages
 and some pages possibly show a different layout than others (e.g. number of
 columns), the :file:`Templates/` directory may contain one or multiple HTML files.
+The templates can also be used to generate any text file formats like Javascript, CSS and text.
 
 Partials
 ~~~~~~~~
